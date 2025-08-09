@@ -109,10 +109,15 @@ const courses = [
 ))}
 ```
 
-##Conclusion
+
 
 Simple Example: Mapping over a basic array of strings.
 
 Medium Example: Mapping over an array of objects with multiple properties.
 
 Hard Example: Nested mapping with conditional rendering for complex data structures.
+
+##Output
+<img width="960" height="228" alt="output" src="https://github.com/user-attachments/assets/ba1c9a83-8ed0-4ae5-9693-f44fa42d48fb" />
+
+
